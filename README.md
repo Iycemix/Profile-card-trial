@@ -29,6 +29,7 @@ Destop View
 ![image](https://user-images.githubusercontent.com/81003701/141932379-b06b3aad-8029-4784-8a6a-6577175462eb.png)
 
 Mobile View
+
 ![image](https://user-images.githubusercontent.com/81003701/141932667-03b32b1f-f051-49ac-86ba-4759172f2b16.png)
 
 ### Links
