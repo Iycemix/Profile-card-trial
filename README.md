@@ -34,7 +34,7 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [See my solution here](https://www.frontendmentor.io/solutions/profile-card-using-tailwind-css-IL07HCB_Z)
 - Live Site URL: [LIVE SITE](https://ijprofilecard.netlify.app/)
 
 ## My process
